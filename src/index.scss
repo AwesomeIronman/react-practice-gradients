@@ -1,0 +1,10 @@
+$font-stack: "Source Sans Pro", "Segoe UI", Roboto, Ubuntu, system-ui, -apple-system, Cantarell, "Noto Sans", sans-serif,
+	"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$primary-color: #333;
+
+body {
+	font: 100% $font-stack;
+	color: $primary-color;
+	background-color: beige;
+
+}
