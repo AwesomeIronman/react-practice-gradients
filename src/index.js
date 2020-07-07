@@ -32,6 +32,7 @@ function App() {
 				</label>
 			</div>
 
+			<GradientBox color1={color1} color2={color2} />
 		</React.Fragment>
 	);
 }
